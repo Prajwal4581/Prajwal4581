@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Java & backend projects as part of PG-DAC, focusing on clean code and real-world problem solving<br><br>👯 I’m looking to collaborate on: Java, backend, and beginner-friendly open-source projects<br><br>🤝 I’m looking for help with: Advanced DSA, system design  and optimizing backend performance<br><br>🌱 I’m currently learning: Java, Data Structures & Algorithms, Databases, and Web Technologies<br><br>💬 Ask me about: Java, C++, basics of backend development, or why debugging works only after coffee<br><br>⚡ Fun fact: I enjoy turning complex problems into simple, efficient solutions.
 
 
