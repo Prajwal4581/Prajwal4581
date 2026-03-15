@@ -92,7 +92,7 @@
 ## 📊 GitHub Stats
 
 ![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwal4581&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Prajwal4581&theme=dracula&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prajwal4581&theme=dark)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal4581&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -110,5 +110,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwaljadhav8145@gmail.com)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Prajwal4581&icon=0&color=2)
+![Profile Views](https://komarev.com/ghpvc/?username=Prajwal4581&color=blue&style=flat)
