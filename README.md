@@ -7,7 +7,6 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently building:** [Residentia](https://github.com/Prajwal4581/Residentia-pg) — a full-stack PG Finder platform with Spring Boot 3.2 + React 19
 - 🤖 **Exploring:** AI integrations using Groq API, LLaMA3, FastAPI, and Streamlit
 - 🌱 **Actively learning:** DSA, Spring Boot internals, System Design, React advanced patterns
 - 🎯 **Goal:** Backend / Full-Stack Java Developer role
