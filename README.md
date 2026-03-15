@@ -1,4 +1,4 @@
-# Hi, I'm Prajwal Santosh Jadhav 👋
+# Hi, I'm Prajwal Jadhav 👋
 
 🎓 **PG-DAC @ Sunbeam Institute, Pune** (Aug 2025 Batch)  
 💻 Full-Stack Java Developer | Backend-focused | Building real-world projects with Spring Boot, React & AI integrations
