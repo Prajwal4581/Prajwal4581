@@ -7,8 +7,9 @@
 
 ## 🚀 About Me
 
+- 🔭 Currently working on: Full-stack Java + Python AI projects
+- 🌱 Learning: FastAPI, LLM integration, AI agents, DSA
 - 🤖 **Exploring:** AI integrations using Groq API, LLaMA3, FastAPI, and Streamlit
-- 🌱 **Actively learning:** DSA, Spring Boot internals, System Design, React advanced patterns
 - 🎯 **Goal:** Backend / Full-Stack Java Developer role
 - 💬 **Ask me about:** Java, Spring Boot, REST APIs, JWT Auth, JPA, React — or why your `NullPointerException` is a personal attack
 - ⚡ **Fun fact:** I write cleaner code after coffee. The correlation is statistically significant.
