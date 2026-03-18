@@ -100,7 +100,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prajwal4581&theme=darcula&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prajwal4581&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
