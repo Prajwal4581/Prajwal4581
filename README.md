@@ -98,11 +98,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Prajwal4581&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-jadhav45)
